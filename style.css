@@ -1,0 +1,20 @@
+.naslov {
+	text-align: center;
+}
+
+.podnaslov {
+	text-align: center;
+}
+
+.Naslovni-tekst {
+	text-align: center;
+}
+
+.card {
+	width: 18rem;
+}
+
+.card-wrapper {
+	display: flex;
+	justify-content: center;
+}
