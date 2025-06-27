@@ -17,4 +17,72 @@
 .card-wrapper {
 	display: flex;
 	justify-content: center;
+	gap: 30px;
+}
+
+.hero-text {
+	text-align: center;
+}
+
+.navbar bg-body-tertiary {
+	position: absolute;
+	width: 100%;
+	z-index: 10;
+	background: rgba(0, 0, 0, 0.4);
+}
+
+.hero-section {
+	background-image: url("banner-5.png");
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	padding: 0 1rem;
+	position: relative;
+	color: white;
+	overflow: hidden;
+	margin-bottom: 50px;
+}
+
+.naslov {
+	font-size: 56px;
+	font-weight: bold;
+}
+
+h2 {
+	text-align: center;
+}
+
+.podnasov-padding {
+	padding-bottom: 50px;
+}
+
+.FAQ-padding {
+	padding-bottom: 50px;
+}
+
+.FAQ {
+	margin-top: 50px;
+}
+
+.FAQ {
+	padding-right: 150px;
+	padding-left: 150px;
+}
+
+footer {
+	background-color: #343a40;
+	color: #fff;
+	padding: 3rem 0;
+}
+
+.FAQ {
+	margin-bottom: 50px;
+}
+
+.mt-5 {
+	margin-top: 50px;
 }
